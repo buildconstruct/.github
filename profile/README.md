@@ -112,6 +112,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)
 ![Convex](https://img.shields.io/badge/Convex-EB5A1E?logo=convex&logoColor=fff)
+![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
