@@ -116,6 +116,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
 ![OpenCode](https://img.shields.io/badge/OpenCode-7C3AED?logo=opencode&logoColor=fff)
 ![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
