@@ -108,30 +108,40 @@
 ## Our Stack
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=000)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=000)
 ![Convex](https://img.shields.io/badge/Convex-EB5A1E?logo=convex&logoColor=fff)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6F00?logo=mistral&logoColor=fff)
 
 ### Services & Infra
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
 
 ### AI & Tooling
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
 ![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 ---
 
