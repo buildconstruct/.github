@@ -110,6 +110,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)
+![Convex](https://img.shields.io/badge/Convex-EB5A1E?logo=convex&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
