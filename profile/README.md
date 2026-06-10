@@ -133,7 +133,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=000)
 ![Convex](https://img.shields.io/badge/Convex-EB5A1E?logo=convex&logoColor=fff)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6F00?logo=mistral&logoColor=fff)
 
 ### Services & Infra
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)
@@ -146,6 +145,7 @@
 
 ### AI & Tooling
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6F00?logo=mistral&logoColor=fff)
 ![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
