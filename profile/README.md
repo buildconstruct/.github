@@ -62,6 +62,7 @@
 ### Services & Infra
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
+![Paddle](https://img.shields.io/badge/Paddle-FDDD35?logo=paddle&logoColor=000)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
