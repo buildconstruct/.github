@@ -28,6 +28,8 @@
 
 **Web & Marketing** · **Booking Systems** · **Online Stores** · **Dashboards** · **SaaS Platforms** · **AI Tools** · **Prototype Rescue** · **Systems & Integrations**
 
+> **Already using something else?** We adapt to your stack. Stripe, Paddle, Shopify, Twilio, Google Cloud, or any service with a documented API — we wire it in. No migration required.
+
 ---
 
 ## Stack
