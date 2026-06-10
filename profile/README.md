@@ -107,6 +107,10 @@
 
 ## Our Stack
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
