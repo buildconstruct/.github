@@ -118,6 +118,7 @@
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/Expo-000?logo=expo&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 ### Backend
