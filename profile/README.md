@@ -5,7 +5,7 @@
   <br/>
   <p>
     We turn ideas, prototypes, and unfinished builds into<br/>
-    <strong>production-ready products.</strong>
+    <strong>production-ready products and systems.</strong>
   </p>
   <p>
     AI-assisted · Human-reviewed · Security-first · Built to last
@@ -83,6 +83,12 @@
       <td colspan="2">
         <strong>Prototype Rescue</strong><br/>
         Take Bolt / Lovable / v0 builds and finish them properly
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Systems & Integrations</strong><br/>
+        APIs, middleware, automation, data pipelines, POS integrations
       </td>
     </tr>
   </table>
