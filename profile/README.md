@@ -19,7 +19,16 @@
     <span>St James, Jamaica · Worldwide</span>
   </p>
   <br/>
+  <a href="https://buildconstruct.vercel.app/contact">
+    <img src="https://img.shields.io/badge/Start%20a%20Project-1a1a2e?style=for-the-badge" alt="Start a Project"/>
+  </a>
+  <br/><br/>
 </div>
+
+---
+
+> [!TIP]
+> **Ready to build something?** [Tell us about your project](https://buildconstruct.vercel.app/contact) — no commitment required.
 
 ---
 
@@ -98,7 +107,15 @@
 
 ## Our Stack
 
-`Next.js` `React Native` `TypeScript` `Supabase` `Stripe` `Vercel` `Claude` `OpenCode` `Cursor`
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
+![OpenCode](https://img.shields.io/badge/OpenCode-7C3AED?logo=opencode&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
 
 ---
 
