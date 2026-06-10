@@ -131,7 +131,6 @@
 
 ### AI & Tooling
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
-![OpenCode](https://img.shields.io/badge/OpenCode-7C3AED?logo=opencode&logoColor=fff)
 ![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
 
 ---
