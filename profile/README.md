@@ -115,6 +115,7 @@
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=000)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=fff)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
@@ -122,11 +123,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 ### Backend
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=000)
 ![Convex](https://img.shields.io/badge/Convex-EB5A1E?logo=convex&logoColor=fff)
@@ -138,12 +141,16 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=fff)
+![SST](https://img.shields.io/badge/SST-E27152?logo=sst&logoColor=fff)
 
 ### AI & Tooling
 ![Claude](https://img.shields.io/badge/Claude-D97706?logo=claude&logoColor=fff)
 ![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff)
+![Turbo](https://img.shields.io/badge/Turbo-000?logo=turbo&logoColor=fff)
 
 ---
 
