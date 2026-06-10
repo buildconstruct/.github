@@ -114,6 +114,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=000)
+![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=fff)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
